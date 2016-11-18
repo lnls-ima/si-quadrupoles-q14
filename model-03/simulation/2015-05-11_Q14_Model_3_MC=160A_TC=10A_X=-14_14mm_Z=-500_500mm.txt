@@ -1,6 +1,6 @@
 Nome_do_Mapa:			Quadrupolo_Anel_Q14_Modelo 3
 Data_Hora:			2015-05-11_13-57-25
-Nome_do_Arquivo:		2011-05-2015_Q14_Model_3_MC=160A_TC=10A_X=-14_14mm_Z=-500_500mm.txt
+Nome_do_Arquivo:		2015-05-11_Q14_Model_3_MC=160A_TC=10A_X=-14_14mm_Z=-500_500mm.txt
 Numero_de_Imas:			1
 
 Nome_do_Ima:			Q14
