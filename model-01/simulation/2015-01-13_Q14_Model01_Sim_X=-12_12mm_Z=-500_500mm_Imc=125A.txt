@@ -1,6 +1,6 @@
 Nome_do_Mapa:			Quadrupolo_Anel_QC_Modelo 1
 Data_Hora:			2015-01-13_11-41-16
-Nome_do_Arquivo:		2015-01-13_Q14_Model_1_MC=125A_X=-12_12mm_Z=-500_500mm.txt
+Nome_do_Arquivo:		2015-01-13_Q14_Model01_Sim_X=-12_12mm_Z=-500_500mm_Imc=125A.txt
 Numero_de_Imas:			1
 
 Nome_do_Ima:			QD
