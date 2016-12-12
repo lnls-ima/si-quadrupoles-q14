@@ -14,12 +14,12 @@
 
 # each analysis has an identity label used for naming output files
 
-  config_label                      'q14_model3'
+  config_label                      'model03-3gev'
 
 
-# the multipoles (m1,m2,...) to be calculated are defined by a list of position x exponents (n1,n2,...): 
+# the multipoles (m1,m2,...) to be calculated are defined by a list of position x exponents (n1,n2,...):
 # By = m1 * x^n1 + m2 * x^n2 + ...
- 
+
   multipoles_normal_field_fitting_monomials      (1,5,9,13)        # monomials to be included in the polynomial fit of multipoles
   multipoles_skew_field_fitting_monomials        ()                   # monomials to be included in the polynomial fit of multipoles
 
@@ -32,11 +32,9 @@
    normalization_monomial           1
    normalization_is_skew            False
 
-# integrated residual field (converted to kick angle) calculated from fitted multipoles and 
-# from integrated fieldmap are compared. The parameter below lists the monomials which are 
+# integrated residual field (converted to kick angle) calculated from fitted multipoles and
+# from integrated fieldmap are compared. The parameter below lists the monomials which are
 # supposed to define the main field. The rest makes up for the residual field
 
   normal_multipoles_main_monomials         (1,)
   skew_multipoles_main_monomials           ()
-
-

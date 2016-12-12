@@ -16,7 +16,7 @@
 
 # each analysis has an identity label used for naming output files
 
-  config_label             'q14_model3'
+  config_label             'model03-3gev'
 
 
 # the next parameter specifies the type of magnet to be analysid.
@@ -27,7 +27,7 @@
 
 # the full name of the file that contains the field map
 
-  fmap_filename            '../../fieldmap-files/2011-05-2015 Quadrupolo_Anel_Q14_Modelo 3_-14_14mm_-500_500mm.txt'
+  fmap_filename            '../../../simulation/2015-05-11_Q14_Model03_Sim_X=-14_14mm_Z=-500_500mm_Imc=160A_Itc=10A.txt'
 
 
 # Runge-kutta algorithm used for the integration of the eqs. of motion needs to know

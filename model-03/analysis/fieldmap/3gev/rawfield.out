@@ -1,6 +1,6 @@
 --- fieldmap ---
 timestamp:                          2015-05-11_13-57-25
-filename:                           Quadrupolo_Anel_Q14_Modelo 3_-14_14mm_-500_500mm.txt
+filename:                           2015-05-11_Q14_Model03_Sim_X=-14_14mm_Z=-500_500mm_Imc=160A_Itc=10A.txt
 magnet_label:                       Q14
 magnet_length:                      125.5 mm
 main_coil_current:                  160 A

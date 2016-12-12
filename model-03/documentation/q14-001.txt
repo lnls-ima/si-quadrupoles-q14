@@ -1,0 +1,2 @@
+2016-10-10 desmagnetization ???
+2016-10-10 rotating coil measurements: various main-coil current values. trim coil measurements [-10A,+10A] for a set of 3 main coil current values.
