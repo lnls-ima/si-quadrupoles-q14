@@ -1,7 +1,7 @@
-Booster Q14 Quadrupoles Magnetic Center and Integrated Quadrupole
-=================================================================
+Q14 Magnetic Center and Integrated Main Multipole
+=================================================
 
-As measured with rotcoil for I =  90A (value for nominal QDB1, QDP1 nominal strength @ 3 GeV)
+As measured with rotcoil for I =  90A
 
 Magnet  |             M1               |
         | x0 [mm]  y0 [mm] GL/I [T/mA] |
